@@ -62,11 +62,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcedCafeMocha&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1116CafeMocha&layout=compact">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IcedCafeMocha&show_icons=true&theme=graywhite">
+  <img src="https://github-readme-stats.vercel.app/api?username=1116CafeMocha&show_icons=true&theme=graywhite">
 </p>
