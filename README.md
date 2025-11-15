@@ -62,11 +62,18 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1116CafeMocha&layout=compact">
+  <a href="https://solved.ac/1116cafemocha/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1116cafemocha" alt="Solved.ac Profile" />
+  </a>
+</p>
+
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1116CafeMocha&layout=compact"> -->
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1116CafeMocha&show_icons=true&theme=graywhite">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=1116CafeMocha&show_icons=true&theme=graywhite"> -->
 </p>
